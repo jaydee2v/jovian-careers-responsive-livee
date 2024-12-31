@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     color: #444444;
+    font-size: 1rem;
 }
 
 #navbar {
@@ -178,4 +179,3 @@ a:hover a:focus{
 }
 
 
-4:26:00
